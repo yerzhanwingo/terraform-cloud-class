@@ -42,7 +42,7 @@ resource "aws_instance" "web3" {
   instance_type = "t3.micro"
 
   tags = {
-    Name = "NewOne"
+    Name = "NewOne1"
   }
 }
 
